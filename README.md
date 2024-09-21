@@ -2,6 +2,7 @@
 World Population Data Analysis
 ### Dashboard Preview
 ![Screenshot 2024-09-21 220447](https://github.com/user-attachments/assets/956b97df-4ce1-4c3d-b88c-5e584a2d2bec)
+![Screenshot 2024-09-21 220542](https://github.com/user-attachments/assets/47f6b129-2859-47b9-9300-7a1525a80f3f)
 
 
 ### **Overview**
@@ -15,7 +16,6 @@ This project presents an in-depth analysis of global population trends, focusing
 - [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Visualizations](#visualizations)
-- [Findings and Insights](#findings-and-insights)
 - [Conclusion](#conclusion)
 - [Power BI Dashboard](#power-bi-dashboard)
 
@@ -64,13 +64,6 @@ Key visualizations were created to highlight:
 - **Top 10 most populous countries**.
 - **Population density** comparisons.
 - **Life expectancy** across different regions.
-
-### **Findings and Insights**
-Some key insights derived from the dashboard:
-- Countries in Asia and Africa show the highest population growth rates.
-- Europe has a much slower growth rate and is seeing demographic shifts towards an aging population.
-- Population density is extremely high in urbanized regions, with countries like Monaco and Singapore leading in density metrics.
-- Life expectancy shows significant variance between developed and developing countries.
 
 ### **Power BI Dashboard**
 A Power BI dashboard has been created to visualize the world population data, with interactive features allowing users to explore different regions and trends over time. The dashboard provides an engaging way to study demographic changes and population metrics.
